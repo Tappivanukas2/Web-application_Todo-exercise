@@ -1,7 +1,6 @@
 import express from 'express'
 import cors from 'cors'
 import todoRouter from './routers/todoRouter.js'
-//import { pool } from './routers/db.js'
 
 const port = process.env.PORT
 
